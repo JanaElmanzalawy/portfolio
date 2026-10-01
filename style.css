@@ -1021,6 +1021,56 @@ button {
 /* =====================================================
    EXPERIENCE SECTION STYLING
 ===================================================== */
+/* .experience {
+    padding: 100px 0;
+    background-color: #0b0f19;
+}
+
+.experience-card {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    padding: 32px;
+    margin-top: 32px;
+    backdrop-filter: blur(10px);
+    transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.experience-card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(96, 165, 250, 0.3);
+}
+
+.experience-header {
+    margin-bottom: 20px;
+}
+
+.experience-header h3 {
+    color: #ffffff;
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin-bottom: 6px;
+}
+
+.experience-company {
+    color: #60a5fa;
+    font-weight: 600;
+    display: inline-block;
+    margin-right: 12px;
+}
+
+.experience-date {
+    color: #94a3b8;
+    font-size: 0.9rem;
+}
+
+.experience-card ul {
+    list-style: none;
+    padding-left: 0;
+    margin:  */
+/* =====================================================
+   EXPERIENCE SECTION STYLING
+===================================================== */
 .experience {
     padding: 100px 0;
     background-color: #0b0f19;
@@ -1136,9 +1186,7 @@ button {
 
 .education-card h3 {
     color: #0f172a;
-    font-size: 1.35rem;
-    font-weight: 700;
-    margin-bottom: 12px;
+    font-size: 1.35rem;rgin-bottom: 12px;
     line-height: 1.4;
 }
 
@@ -1190,7 +1238,6 @@ button {
     color: #60a5fa;
     font-weight: 600;
 }
-
 /* =====================================================
    SERVICES
 ===================================================== */
@@ -1960,7 +2007,6 @@ button {
 
 
 /* =====================================================
-<<<<<<< HEAD
    CONTACT / LET'S CONNECT SECTION (LIGHT THEME)
 ===================================================== */
 .contact {
@@ -2050,12 +2096,7 @@ button {
 
 .experience-date {
     color: #94a3b8;
-    font-size: 0.9rem;
-}
-
-.experience-card ul {
-    list-style: none;
-    padding-left: 0;
+   adding-left: 0;
     margin: 16px 0 0 0;
 }
 
@@ -2079,7 +2120,7 @@ button {
 
 /* =====================================================
    THANK YOU SECTION
-===================================================== */
+================================ */
 /* .thank-you-section {
     padding: 70px 0;
     background-color: #ffffff;
@@ -2108,53 +2149,7 @@ button {
     color: #507ab4;
 } */
 
-
-.contact {
-
-    padding: 105px 0;
-
-    color: white;
-
-    background: #08111e;
-
-}
-
-.contact h2 {
-
-    margin-top: 25px;
-
-    color: #f2f7ff;
-
-    font-size: clamp(42px, 5vw, 65px);
-
-    line-height: 1.05;
-
-    letter-spacing: -3px;
-
-}
-
-.contact h2 span {
-
-    color: #85b2fb;
-
-}
-
-.contact p {
-
-    max-width: 600px;
-
-    margin: 25px 0 30px;
-
-    color: #8fa2bc;
-
-    font-size: 16px;
-
-    line-height: 1.65;
-
-}
-
-
-/* =====================================================
+/* =======================================
    FOOTER
 ===================================================== */
 
@@ -2231,11 +2226,7 @@ footer p {
         #263a55;
 
     border-radius: 50%;
-
-    color: #8096b4;
-
     font-size: 12px;
-
     transition: .3s ease;
 
 }
@@ -2713,12 +2704,7 @@ footer p {
 
     .ml-projects {
 
-        grid-template-columns: 1fr;
-
-    }
-
-
-    /* USP */
+       } */
 
     .usp {
 
@@ -2821,4 +2807,4 @@ footer p {
 
     }
 
-}
+}   
