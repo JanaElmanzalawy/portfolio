@@ -1190,6 +1190,7 @@ button {
     color: #60a5fa;
     font-weight: 600;
 }
+
 /* =====================================================
    SERVICES
 ===================================================== */
@@ -1959,6 +1960,7 @@ button {
 
 
 /* =====================================================
+<<<<<<< HEAD
    CONTACT / LET'S CONNECT SECTION (LIGHT THEME)
 ===================================================== */
 .contact {
@@ -2105,6 +2107,52 @@ button {
 .thank-you-signature strong {
     color: #507ab4;
 } */
+
+
+.contact {
+
+    padding: 105px 0;
+
+    color: white;
+
+    background: #08111e;
+
+}
+
+.contact h2 {
+
+    margin-top: 25px;
+
+    color: #f2f7ff;
+
+    font-size: clamp(42px, 5vw, 65px);
+
+    line-height: 1.05;
+
+    letter-spacing: -3px;
+
+}
+
+.contact h2 span {
+
+    color: #85b2fb;
+
+}
+
+.contact p {
+
+    max-width: 600px;
+
+    margin: 25px 0 30px;
+
+    color: #8fa2bc;
+
+    font-size: 16px;
+
+    line-height: 1.65;
+
+}
+
 
 /* =====================================================
    FOOTER
@@ -2773,4 +2821,4 @@ footer p {
 
     }
 
-}   
+}
